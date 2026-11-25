@@ -4,13 +4,13 @@
 
 body {
     text-align: center;
-    background-color: #eeeaea;
+    background-color: #cff5f4;
 }
 
 img {
     width: 600px;
     height: 450px;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .galeria {
